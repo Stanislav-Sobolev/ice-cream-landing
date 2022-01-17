@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Главный файл стилей.
  * Все паршалы подключаются сюда.
  */
@@ -10,3 +10,11 @@
 @import './utils/variables';
 @import './utils/base';
 @import './utils/visually-hidden';
+
+
+@import './layout/prod';
+
+@import './layout/advantages';
+
+@import './clients';
+
